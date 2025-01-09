@@ -29,7 +29,7 @@ python gif_reducer.py input.gif output.gif target_size_kb
 Parameters:
 - `input.gif`: Source GIF file
 - `output.gif`: Output file name
-- `target_size_kb`: Desired size in KB (optional, defaults to 128)
+- `target_size_kb`: Desired size in KB (defaults to 128)
 
 ## Example
 
